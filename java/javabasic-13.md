@@ -1,0 +1,3 @@
+bagaimana cara membuat **variable** ?
+
+
